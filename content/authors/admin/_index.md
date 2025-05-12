@@ -102,6 +102,10 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Basketball
+        description: ''
+        percent: 80
+        icon: basketball
 
 languages:
   - name: English
