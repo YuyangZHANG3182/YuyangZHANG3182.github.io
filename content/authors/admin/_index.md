@@ -31,12 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:3230103368@zju.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/chime186995
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/chimecheung
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
