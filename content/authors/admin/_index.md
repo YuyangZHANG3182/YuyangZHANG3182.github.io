@@ -74,10 +74,10 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Matlab
         description: ''
-        percent: 80
-        icon: code-bracket
+        percent: 75
+        icon: laptop-code
       - name: Data Science
         description: ''
         percent: 100
