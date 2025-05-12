@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:chime3182@gmail.com'
+    url: 'mailto:3230103368@zju.edu.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/chime186995
@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0001-4965-6700
 
 interests:
   - Artificial Intelligence
