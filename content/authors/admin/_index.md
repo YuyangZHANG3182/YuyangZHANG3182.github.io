@@ -97,7 +97,7 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: fa-solid:cat
+        icon: cat
       - name: Photography
         description: ''
         percent: 80
