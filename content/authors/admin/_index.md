@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/0009-0001-4965-6700
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cognitive Psychology
+  - Visual Plasticity
+  - Attention and the Unconscious
 
 education:
   - area: PhD Artificial Intelligence
