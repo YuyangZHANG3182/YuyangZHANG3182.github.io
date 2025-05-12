@@ -6,8 +6,8 @@ title: 张于扬
 name_pronunciation: Zhang Yu Yang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yuyang 
+last_name: Zhang
 
 # Status emoji
 status:
