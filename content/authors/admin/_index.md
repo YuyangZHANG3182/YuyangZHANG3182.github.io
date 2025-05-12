@@ -157,4 +157,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhang Yuyang is an undergraduate student in the Department of Psychological and Behavioral Sciences at Zhejiang University and a member of the Psychology program (Qiu Shi Science Honors Program) under the Chu Kochen Honors College. With strong research enthusiasm and solid academic capabilities, he has mastered technical skills such as Matlab, tDCS, and SPSS, and has independently conducted and completed multiple research projects in the field of cognitive psychology. His research interests primarily focus on visual plasticity, attention, and the unconscious. In the future, he aspires to further his academic journey by pursuing a Ph.D. in Psychology.
