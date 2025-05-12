@@ -97,7 +97,7 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
       - name: Photography
         description: ''
         percent: 80
