@@ -113,7 +113,7 @@ skills:
       - name: Movies
         description: ''
         percent: 80
-        icon: film
+        icon: dog
 
 languages:
   - name: Chinese
