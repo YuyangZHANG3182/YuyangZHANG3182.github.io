@@ -130,11 +130,11 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    certificate_url: 
+    certificate_url: https://github.com/YuyangZHANG3182/Certificate/blob/73a5cc300ed35868c137694c6d23dd0f7ee98503/%E8%AF%81%E4%B9%A6-%E8%BF%9B%E5%8C%96%E4%B8%8E%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E4%BA%BA%E7%B1%BB%E4%B9%90%E6%84%9F%E6%BC%94%E5%8F%98%E4%B8%8B%E6%8B%A9%E5%81%B6%E5%92%8C%E4%BA%A4%E5%8F%8B%E5%8A%A8%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%98%E5%8C%96-%E5%BC%A0%E4%BA%8E%E6%89%AC%20(1).pdf
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
-    summary: https://github.com/YuyangZHANG3182/Certificate/blob/73a5cc300ed35868c137694c6d23dd0f7ee98503/%E8%AF%81%E4%B9%A6-%E8%BF%9B%E5%8C%96%E4%B8%8E%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E4%BA%BA%E7%B1%BB%E4%B9%90%E6%84%9F%E6%BC%94%E5%8F%98%E4%B8%8B%E6%8B%A9%E5%81%B6%E5%92%8C%E4%BA%A4%E5%8F%8B%E5%8A%A8%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%98%E5%8C%96-%E5%BC%A0%E4%BA%8E%E6%89%AC%20(1).pdf
+    summary: 
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
