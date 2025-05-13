@@ -147,7 +147,7 @@ awards:
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+    certificate_url: https://github.com/YuyangZHANG3182/Certificate/blob/73a5cc300ed35868c137694c6d23dd0f7ee98503/%E8%AF%81%E4%B9%A6-%E8%BF%9B%E5%8C%96%E4%B8%8E%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E4%BA%BA%E7%B1%BB%E4%B9%90%E6%84%9F%E6%BC%94%E5%8F%98%E4%B8%8B%E6%8B%A9%E5%81%B6%E5%92%8C%E4%BA%A4%E5%8F%8B%E5%8A%A8%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%98%E5%8C%96-%E5%BC%A0%E4%BA%8E%E6%89%AC%20(1).pdf
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
