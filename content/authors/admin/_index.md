@@ -136,17 +136,13 @@ awards:
     icon: dog
     summary: 
       From November 2024 to January 2025, I participated in the program, where I studied fundamental theories in evolutionary and developmental psychology, explored cutting-edge research directions within the field, and successfully completed the program to earn a certificate.
-
-
-  - title: Psychology: The Mind & Body
+  - title: Psychology :The Mind & Body
     url: https://www.kcl.ac.uk/summer/courses/undergraduate-psychology-the-mind-body
     date: '2025-07-11'
     awarder: King's College London
     icon: dog
     summary: |
       I plan to attend the summer school at King's College London (KCL) during the upcoming summer, though the program has not yet commenced.
-
-
   - title: '2025 National Undergraduate Innovation Training Program (SRTP) at Zhejiang University'
     url: http://www.psych.zju.edu.cn/2025/0403/c27653a3034544/page.htm
     
