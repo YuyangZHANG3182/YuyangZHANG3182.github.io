@@ -134,7 +134,7 @@ awards:
     date: '2025-03-01'
     awarder: China International Education Institute
     icon: dog
-    summary: 
+    summary: |
       From November 2024 to January 2025, I participated in the program, where I studied fundamental theories in evolutionary and developmental psychology, explored cutting-edge research directions within the field, and successfully completed the program to earn a certificate.
   - title: Psychology :The Mind & Body
     url: https://www.kcl.ac.uk/summer/courses/undergraduate-psychology-the-mind-body
