@@ -133,7 +133,7 @@ awards:
     certificate_url: https://github.com/YuyangZHANG3182/Certificate/blob/73a5cc300ed35868c137694c6d23dd0f7ee98503/%E8%AF%81%E4%B9%A6-%E8%BF%9B%E5%8C%96%E4%B8%8E%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E4%BA%BA%E7%B1%BB%E4%B9%90%E6%84%9F%E6%BC%94%E5%8F%98%E4%B8%8B%E6%8B%A9%E5%81%B6%E5%92%8C%E4%BA%A4%E5%8F%8B%E5%8A%A8%E6%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%98%E5%8C%96-%E5%BC%A0%E4%BA%8E%E6%89%AC%20(1).pdf
     date: '2025-03-01'
     awarder: China International Education Institute
-
+    icon: dog
     summary: 
       From November 2024 to January 2025, I participated in the program, where I studied fundamental theories in evolutionary and developmental psychology, explored cutting-edge research directions within the field, and successfully completed the program to earn a certificate.
 
@@ -142,7 +142,7 @@ awards:
     url: https://www.kcl.ac.uk/summer/courses/undergraduate-psychology-the-mind-body
     date: '2025-07-11'
     awarder: King's College London
-   
+    icon: dog
     summary: |
       I plan to attend the summer school at King's College London (KCL) during the upcoming summer, though the program has not yet commenced.
 
@@ -152,7 +152,7 @@ awards:
     
     date: '2025-04-03'
     awarder: Zhejiang University
-    
+    icon: dog
     summary: |
       My research project titled "Investigating the Mechanisms of Transcranial Direct Current Stimulation (tDCS) in Modulating Monocular Deprivation Effects" has been selected as a National-level Innovative Training Project under Zhejiang University’s Student Research Training Program (SRTP) for 2025.
 ---
