@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       I am an undergraduate student in the Department of Psychology at Zhejiang University, currently conducting research primarily on neuroplasticity with a focus on monocular deprivation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+       I utilize techniques such as transcranial direct current stimulation (tDCS), portable EEG devices, and augmented reality (AR) to expand the depth and breadth of my research. 
+
+       Interested collaborators are welcome to contact me. 😃
     design:
       columns: '1'
   - block: collection
