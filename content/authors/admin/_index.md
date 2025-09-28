@@ -138,6 +138,7 @@ awards:
       From November 2024 to January 2025, I participated in the program, where I studied fundamental theories in evolutionary and developmental psychology, explored cutting-edge research directions within the field, and successfully completed the program to earn a certificate.
   - title: Psychology :The Mind & Body
     url: https://www.kcl.ac.uk/summer/courses/undergraduate-psychology-the-mind-body
+    certificate_url: https://github.com/YuyangZHANG3182/Certificate/blob/aa0c577d642a4fe5182806fde184e3694b188b43/KCL%20Summer%20School%20Transcript.pdf
     date: '2025-07-11'
     awarder: King's College London
     icon: dog
