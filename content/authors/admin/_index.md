@@ -119,9 +119,9 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 70
+    percent: 60
   - name: Cantonese
-    percent: 10
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -142,7 +142,7 @@ awards:
     awarder: King's College London
     icon: dog
     summary: |
-      I plan to attend the summer school at King's College London (KCL) during the upcoming summer, though the program has not yet commenced.
+      From June 28, 2025, to July 12, 2025, I participated in the summer school at King's College London, where I studied fundamental and clinical knowledge in psychology, successfully completed the program, and obtained a certificate.
   - title: '2025 National Undergraduate Innovation Training Program (SRTP) at Zhejiang University'
     url: http://www.psych.zju.edu.cn/2025/0403/c27653a3034544/page.htm
     
