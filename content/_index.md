@@ -37,7 +37,7 @@ sections:
       text: |-
        I am an undergraduate student in the Department of Psychology at Zhejiang University, currently conducting research primarily on neuroplasticity with a focus on monocular deprivation.
 
-       I utilize techniques such as transcranial direct current stimulation (tDCS), portable EEG devices, and augmented reality (AR) to expand the depth and breadth of my research. 
+       I utilize techniques such as transcranial direct current stimulation (tDCS), portable EEG devices, and Neurocomputational modeling to expand the depth and breadth of my research. 
 
        Interested collaborators are welcome to contact me. 😃
     design:
