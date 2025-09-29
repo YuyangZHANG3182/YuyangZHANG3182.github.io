@@ -152,6 +152,14 @@ awards:
     icon: dog
     summary: |
       My research project titled "Investigating the Mechanisms of Transcranial Direct Current Stimulation (tDCS) in Modulating Monocular Deprivation Effects" has been selected as a National-level Innovative Training Project under Zhejiang University’s Student Research Training Program (SRTP) for 2025.
+  - title: 'The General Project under Zhejiang University"s 2025 Chu Kochen Honors College Deep Research Training Program'
+    url: http://office.ckc.zju.edu.cn/2025/0523/c54289a3054429/page.htm
+    
+    date: '2025-05-23'
+    awarder: Chu Kochen Honors College, Zhejiang University
+    icon: dog
+    summary: |
+      The research project I led, "Modulation of Short-Term Visual Plasticity by Exercise," has been selected as a university-level research project for the 2025 Deep Research Training Program of ZJU's Chu Kochen Honors College.
 ---
 
 ## About Me
